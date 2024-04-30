@@ -22,7 +22,7 @@ def organize_files(source_dir, target_dir):
 
     print("Files organized successfully!")
 
-# Example usage:
+
 source_directory = 'E:\\Task\\Unorganized'
 target_directory = 'E:\\Task\\Organized'
 organize_files(source_directory, target_directory)
